@@ -1,0 +1,2 @@
+tree -a \
+-I ".github|.pytest_cache|__pycache__|venv|objects|.gocache|.cache|\.DS_Store|Thumbs\.db|node_modules|dist|build|coverage|\.next|out|\.turbo|\.lighthouseci|reports|*\.report\.html|*\.report\.json|*\.html|*\.json|.*\.log|npm-debug\.log.*|pnpm-debug\.log.*|yarn-error\.log.*|\.env|\.env\..*|\.venv|bin|coverage\.out|tmp|\.idea|\.vscode|.*\.swp|\.terraform|.*\.tfstate|.*\.tfstate\..*|crash\.log|override\.tf|override\.tf\.json|.*\.tfvars|.*\.tfvars\.json"
